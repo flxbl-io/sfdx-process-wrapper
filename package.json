@@ -1,6 +1,6 @@
 {
     "name": "@flxbl-io/sfdx-process-wrapper",
-    "version": "2.0.3",
+    "version": "2.1.0",
     "description": "Wraps around SFDXCommand to exeute it using a subprocess",
     "author": "flxbl",
     "homepage": "https://github.com/flxbl-io/sfp#readme",
